@@ -7,7 +7,7 @@
             "rg": 123456789,
             "dat_nascimento": "29/06/2000",
             "telefone":"32988080905",
-            "email":"giuliano@gmail.com",
+            "email":"paciente1@gmail.com",
             "endereco_id": 1
         },
         {
@@ -17,7 +17,7 @@
             "rg": 123456789,
             "dat_nascimento": "29/06/2000",
             "telefone":"32988080905",
-            "email":"igorrosa@gmail.com"   ,
+            "email":"paciente2@gmail.com"   ,
             "endereco_id":1 
         },
         {
@@ -27,7 +27,7 @@
             "rg": 123456789,
             "dat_nascimento": "29/06/2000",
             "telefone":"32988080905",
-            "email":"pimenta@gmail.com",
+            "email":"paciente3@gmail.com",
             "endereco_id":1
         },       
         {
@@ -37,7 +37,7 @@
             "rg": 123456789,
             "dat_nascimento": "29/06/2000",
             "telefone":"32988080905",
-            "email":"pimenta@gmail.com",
+            "email":"paciente4@gmail.com",
             "endereco_id":1
         },        
         {
@@ -47,7 +47,7 @@
             "rg": 123456789,
             "dat_nascimento": "29/06/2000",
             "telefone":"32988080905",
-            "email":"joana_lima@gmail.com",
+            "email":"paciente5@gmail.com",
             "endereco_id":1
         }
     ],
