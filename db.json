@@ -105,12 +105,56 @@
         }
     ],
 
-    "procedimentos":[
+   "recepcionistas":[
         {
             "id":1,
-            "nome":"Limpeza",
-            "especialidade_id":1,
-            "status": true
+            "nome": "Recepcionista Sobrenome 1",
+            "cpf": 12345678990,
+            "rg": 123456789,
+            "dat_nascimento": "29/06/2000",
+            "telefone":"32988080905",
+            "email":"recepcionista1@gmail.com",
+            "endereco_id": 1
+        },
+        {
+            "id":2,
+            "nome": "Recepcionista Sobrenome 2",
+            "cpf": 12345678990,
+            "rg": 123456789,
+            "dat_nascimento": "29/06/2000",
+            "telefone":"32988080905",
+            "email":"recepcionista2@gmail.com"   ,
+            "endereco_id":1 
+        },
+        {
+            "id":3,
+            "nome": "Recepcionista Sobrenome 3",
+            "cpf": 12345678990,
+            "rg": 123456789,
+            "dat_nascimento": "29/06/2000",
+            "telefone":"32988080905",
+            "email":"recepcionista3@gmail.com",
+            "endereco_id":1
+        },       
+        {
+            "id":4,
+            "nome": "Recepcionista Sobrenome 4",
+            "cpf": 12345678990,
+            "rg": 123456789,
+            "dat_nascimento": "29/06/2000",
+            "telefone":"32988080905",
+            "email":"recepcionista4@gmail.com",
+            "endereco_id":1
+        },        
+        {
+            "id":5,
+            "nome": "RecepcionistaSobrenome 5",
+            "cpf": 12345678990,
+            "rg": 123456789,
+            "dat_nascimento": "29/06/2000",
+            "telefone":"32988080905",
+            "email":"recepcionista5@gmail.com",
+            "endereco_id":1
         }
     ],
 
